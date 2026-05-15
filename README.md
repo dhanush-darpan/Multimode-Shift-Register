@@ -112,7 +112,7 @@ The `default` branch in the `case` statement resets `mem` to zero. `so` and `po`
 ```
 mmsr/
 ├── mmsr.v          # DUT: Multi-Mode Shift Register
-├── usr_tb.v        # Testbench
+├── mmsr_tb.v       # Testbench
 ├── dump.vcd        # Generated waveform (after simulation)
 └── README.md
 ```
