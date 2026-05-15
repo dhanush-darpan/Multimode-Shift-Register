@@ -1,4 +1,4 @@
-module usr_tb;
+module mmsr_tb;
   reg clk,rst;
   reg load,si;
   reg [1:0]sel;
