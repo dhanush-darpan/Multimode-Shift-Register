@@ -46,6 +46,6 @@ module mmsr_tb;
   
   initial begin
     $dumpfile("dump.vcd");
-    $dumpvars(0,usr_tb);
+    $dumpvars(0,mmsr_tb);
    end
 endmodule
